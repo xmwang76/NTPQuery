@@ -1,0 +1,2 @@
+# NTPQuery
+NTP query
