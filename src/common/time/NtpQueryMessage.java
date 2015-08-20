@@ -25,8 +25,6 @@ import java.util.Arrays;
  * </code>
  * <p>
  * 
- * @author xiawang
- * 
  */
 public class NtpQueryMessage {
 
